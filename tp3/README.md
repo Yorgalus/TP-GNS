@@ -175,7 +175,7 @@ Success rate is 100 percent (5/5), round-trip min/avg/max = 28/43/92 ms
 
 **WIRESHARK**
 
-[ping PC1 lan1 vers PC3 lan2](pingpc1lan1verspc3lan2.pcapng)
+[ping PC1 lan1 vers PC3 lan2](grospingpc1versgrospc3.pcapng)
 
 
 **Address MAC `R1`**
